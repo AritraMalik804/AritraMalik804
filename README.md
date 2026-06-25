@@ -8,9 +8,9 @@ He used to make some awesome projects on his own, and I used to just watch with 
 
 🚀 **About Me:**
 - 💻 I specialize in C [It was in the school curriculum], Python[Self taught], PyTorch[Self taught]
-- 🤖 Can work in tools like ChatGPT, Claude, Perplexity with efficient prompts.
+- 🤖 Can work in tools like ChatGPT, Claude, Perplexity, Gemini with efficient prompts.
 - 🌐 Exploring the subjects of the working of human brain.
-- 📚 Currently learning VHDL, JavaScript
+- 📚 Currently learning JavaScript
 - 🎨 Loves to draw as a hobby.
 
 📰 **Achivements:**
