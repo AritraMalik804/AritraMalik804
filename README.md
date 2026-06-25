@@ -7,7 +7,7 @@ I'm @Butter aka Aritra Malik, a passionate Python programmer based in India. My 
 He used to make some awesome projects on his own, and I used to just watch with amazement and excitement. He taught me the basics of logic and some basic C syntax. And now I'm walking in his footsteps. I'm really happy that got to meet my awesome uncle. 
 
 🚀 **About Me:**
-- 💻 I specialize in C[It was in the school curriculum], Python[Self taught], PyTorch[Self taught]
+- 💻 I specialize in C [It was in the school curriculum], Python[Self taught], PyTorch[Self taught]
 - 🤖 Can work in tools like ChatGPT, Claude, Perplexity with efficient prompts.
 - 🌐 Exploring the subjects of the working of human brain.
 - 📚 Currently learning VHDL, JavaScript
