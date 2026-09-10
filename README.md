@@ -1,4 +1,4 @@
-<img width="216" height="216" alt="Image" src="IMG-20260910-WA0031.jpg" />
+<img width="216" height="216" alt="Image" src="cropped_circle_image.png" />
 </br>
 
 ### 👋 Hello World! 
