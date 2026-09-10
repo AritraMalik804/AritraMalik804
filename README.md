@@ -31,6 +31,6 @@ He used to make some awesome projects on his own, and I used to just watch with 
 
 📈 **GitHub Stats:**
 
-![GitHub stats](https://www.imejis.io/tools/github-stats-card?user=AritraMalik804)
+![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AritraMalik804?cardType=level&theme=github-dark&fontFamily=Actor&preferLogin=false)
 
 Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
